@@ -4,7 +4,7 @@ import yt_dlp
 # Settings
 
 # url adress of youtube video
-url = r"https://www.youtube.com/watch?v=0hpgMPkfsec"
+url = r"https://www.youtube.com/watch?v=4pBo-GL9SRg"
 
 # yt-dlp options
 ydl_opts = {
